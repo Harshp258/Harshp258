@@ -18,7 +18,7 @@ Seneca Polytechnic, Toronto
 - Relevant Coursework: Web Development in React/Next.js14, Database Management System, Data Structures and Algorithm, Introduction to UNIX/LINUX, Project Management Using Agile Methodology, Software Testing with SDLC
 
 ### 🛠️ Projects
-**Lego Sets Management Website - [![Lego Collection](https://assignment-2-ehpm.onrender.com)]
+## Lego Sets Management Website - [Lego Collection](https://assignment-2-ehpm.onrender.com)
 - A sophisticated web-based application designed to manage Lego set collections, showcasing advanced skills in full-stack development, data management, and user interface design. Technologies used include Node.js, Express.js, Sequelize, PostgreSQL, MongoDB, and Tailwind CSS.
 - Impact: Optimized collection management processes, enhancing user experience through effective data manipulation and a refined user interface.
 
