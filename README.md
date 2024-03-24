@@ -1,7 +1,7 @@
 
 # Harsh Patel
 ### Junior Web Developer | Database Administrator
-[![GitHub Badge](https://img.shields.io/badge/GitHub-hp9321649-brightgreen)](https://github.com/hp9321649) [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Harsh%20Patel-blue)](https://www.linkedin.com/in/harshpatel9321649/)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Harsh%20Patel-blue)](https://www.linkedin.com/in/harsh-patel-48a432260/)
 
 Hey there! 👋 I'm Harsh Patel, a passionate Junior Web Developer and Database Administrator with a knack for crafting efficient and user-friendly software solutions. I thrive in dynamic environments where I can utilize my expertise in software development, data analysis, and project management to drive technological innovation and operational excellence.
 
